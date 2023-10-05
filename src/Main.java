@@ -4,7 +4,7 @@ public class Main {
     }
 
     public static String calc(String input) {
-        
+
         return null;
     }
 
